@@ -1,0 +1,46 @@
+--- Credit Profile Report for Customer: 3510655288258594356 ---
+
+## Key Metric Summary
+-  Risk Score : 756.0 (was 731.0)
+-  Overall Utilization : 56.35% (was 59.32%)
+-  Total Active Accounts : 7.0 (was 8.0)
+
+## Current Credit Mix
+-  Total Accounts : 11 (7.0 active)
+-  Active Secured Products: 2
+-  Active Unsecured Products : 5
+-  Active Lender Distribution : Public(0), Private(4), NBFC(2), Corporate(0), Foreign(0)
+
+## Payment Behavior History
+-  Past Delinquencies : User has been delinquent on 1 accounts in their history.
+-  Highest Past Delinquency : 87.0 days on a  Consumer Loan with DMIFINANCE.
+
+## Account Details Breakdown
+
+-  Account : BRANCHINTER -  Personal Loan (#331D)
+  -  Status : Closed this Period
+  -  DPD : 0.0 days (was 0.0 days)
+  -  Utilization : 0.00% (was 100.00%)
+
+-  Account : LNTFIN -  Two-wheeler Loan (#2923)
+  -  Status : Active
+  -  DPD : 0.0 days (was 0.0 days)
+  -  Utilization : 31.82% (was 35.51%)
+
+-  Account : TCL -  Two-wheeler Loan (#4995)
+  -  Status : Active
+  -  DPD : 0.0 days (was 0.0 days)
+  -  Utilization : 68.70% (was 72.56%)
+
+
+
+"Good:- User's score has increased between 2 months by 25.0 points.
+Bad:- User's cc utilisation has increased by 64.37 percentage points.
+Bad:- User's overall utilisation is 56.35%.
+Bad:- User has high utilisation (>30%) in following accounts: IDFC FIRST BANK (100%), IDFC FIRST BANK (100%), IDFC FIRST BANK (100%), IDFC FIRST BANK (100%), LNTFIN (32%), TCL (69%).
+Good:- User's overall utilisation has decreased by 5.01 percentage points.
+Good:- User has reduced their utilisation in the following accounts: BRANCHINTER (100%), LNTFIN (10%).
+Good:- User's cc utilisation is 1.74%.
+Good:- User has utilisation less than 30% in the following accounts: DMIFINANCE (0%).
+Good:- User has closed the following accounts: BRANCHINTER ( Personal Loan).
+"
